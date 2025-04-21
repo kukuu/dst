@@ -226,7 +226,7 @@ Python is core in this innovation.
 
 https://github.com/kukuu/digital-twin-PV4- 
 
-**NodeJS LLM / NLM implementation**
+**NodeJS LLM / NLM extension**
 - https://github.com/kukuu/digital-twin-v2/blob/main/nodejs-LLM-implementation.md
 - https://github.com/kukuu/digital-twin-v2/blob/main/LLM-SPYDER-code-documentation.md
 
