@@ -209,6 +209,18 @@ Key functionalities include:
 
 Nut Cracker aims to integrate advanced technologies to optimize data workflows, deliver predictive insights, and provide robust visualization tools for performance monitoring and future planning. As a  high-volume throughput system, it exemplifies real-time asynchronous data processing capability ensuring scalability, reliability, flexibility, observability, security and  addresses challenges like schema evolution and fault tolerance.
 
+Key Features Enabled in Nut Cracker:
+
+✅ Predictive Maintenance: LLM analyzes trends to flag anomalies (e.g., meter failures).
+
+✅ Natural Language Queries (Semantic SEARCH): Users ask, "Show worst-performing meters this week" via chat.
+
+✅ Automated Reports: LangChain generates summaries from Supabase data.
+
+✅ Simulation Scenarios: "What if meter load increases by 20%?" → LLM runs digital twin simulations.
+
+Python is core in this innovation.
+
 Python is core in this innovation.
 
 
