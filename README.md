@@ -16,7 +16,7 @@ https://github.com/kukuu?tab=repositories
 
 
 
-## DIGITAL TWIN (Innovation)
+## SPYDER (DIGITAL TWIN Innovation)
 
 This digital twin solution creates a virtual replica of physical energy meters, using real-time IoT sensor data and AI-driven analytics to simulate scenarios, predict outcomes, and enable predictive maintenance. Adaptable across industries - from utilities and eCommerce to defence and aerospace - it transforms raw data into actionable insights for optimized operations and decision-making.
 
@@ -26,7 +26,7 @@ The solution reduced operational risks by 30% while improving asset management a
 
 
 
-#### SPYDER : Price Comparison - Find Your Cheapest  Energy  Bill:
+####  Price Comparison - Find Your Cheapest  Energy  Bill:
 
 
 The use case here  is in the development  of a price comparison Smart Meter  Digital Twin for the Energy and Utility industries.  
